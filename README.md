@@ -1,8 +1,27 @@
-# Проекты по анализу данных
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B+%D0%BF%D0%BE+%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%83+%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)](https://git.io/typing-svg)
 
 Меня зовут Артём. Я работаю **аналитиком данных**. 
 
-Ниже представлены мои проекты:
+На каких языках пишу:
+
+* ![Python](https://img.shields.io/badge/-Python-blue)
+* ![SQL](https://img.shields.io/badge/-SQL-blue)
+* ![R](https://img.shields.io/badge/-R-blue)
+* ![MATLAB](https://img.shields.io/badge/-MATLAB-blue)
+
+Какие библиотеки использую:
+
+* ![Pandas](https://img.shields.io/badge/-Pandas-yellow)
+* ![Numpy](https://img.shields.io/badge/-Numpy-yellow)
+* ![Matplotlib](https://img.shields.io/badge/-Matplotlib-yellow)
+* ![Seaborn](https://img.shields.io/badge/-Seaborn-yellow)
+* ![Sklearn](https://img.shields.io/badge/-Sklearn-yellow)
+* ![SciPy](https://img.shields.io/badge/-SciPy-yellow)
+* ![Keras](https://img.shields.io/badge/-Keras-yellow)
+
+### Полезный конспект по анализу данных и основам машинного обучения: [часть 1](), [часть 2]()
+
+## Мои проекты
  
 ## [Музыка больших городов](https://github.com/aafominov96/analytical_projects/blob/main/music_of_big_cities.ipynb)
  
@@ -31,7 +50,7 @@
  В проекте изучается рынок российского кинопроката и выявляются текущие тренды.
  
  Ключевые навыки:
- *EDA
+ * EDA
  
 ## [Исследование заведений общественного питания в Москве](https://github.com/aafominov96/analytical_projects/blob/main/public_catering_in_Moscow.ipynb)
  
