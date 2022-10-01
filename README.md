@@ -19,7 +19,9 @@
 * ![SciPy](https://img.shields.io/badge/-SciPy-yellow)
 * ![Keras](https://img.shields.io/badge/-Keras-yellow)
 
-### Полезный конспект по анализу данных и основам машинного обучения: [часть 1](), [часть 2]()
+### Полезный конспект по анализу данных и основам машинного обучения: 
+* [Часть 1. EDA, Статистические тесты, Машинное обучения](https://github.com/aafominov96/analytical_projects/blob/main/statistical_analysis.ipynb) 
+* [Часть 2. Машинное обучение](https://github.com/aafominov96/analytical_projects/blob/main/neural_networks_in_data_analysis.ipynb)
 
 ## Мои проекты
  
