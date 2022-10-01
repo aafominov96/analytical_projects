@@ -74,4 +74,44 @@
 
 ## [Прогнозирование оттока клиентов фитнес-клуба](https://github.com/aafominov96/analytical_projects/blob/main/ML_in_fitness.ipynb)
 
+В проекте разрабатывается модель для прогнозирования оттока клиентов, а также производится кластеризация клиентов.
+
+Ключевые навыки:
+* EDA
+* Standardization
+* Logistic Regression
+* Random Forest Classifier
+* K-means Method
+
+## [Исследование популярности компьютерных игр](https://github.com/aafominov96/analytical_projects/blob/main/PC_games_research.ipynb)
+
+В проекте определяются закономерности, определяющие успешность игр и определяется портрет типичного пользователя.
+
+Ключевые навыки:
+* EDA
+* t-Test
+
+## [Анализ каналов привлечения пользователей для мобильной игры](https://github.com/aafominov96/analytical_projects/blob/main/mobile_game_advertising_sources.ipynb)
+
+В проекте рассматриваются различные источники привлечения пользователей в мобильную игру, а также возможности монетизации внутриигровой механики.
+
+Ключевые навыки:
+* EDA
+* t-Test
+
+## [Анализ корректности проведения и результатов A/B-теста для интернет-магазина](https://github.com/aafominov96/analytical_projects/blob/main/ab_test_result_analysis.ipynb)
+
+В проекте проводится оценка корректности проведения A/B-теста, а также производится оценка результатов теста.
+
+Ключевые навыки:
+* EDA
+* Z-Test
+
+## [Анализ базы данных №1](https://github.com/aafominov96/analytical_projects/blob/main/sql_in_python.ipynb) и [№2](https://github.com/aafominov96/analytical_projects/blob/main/sql_in_python_2.ipynb)
+
+В проектах демонстируются базовые навыки владения SQL.
+
+Ключевые навыки:
+* EDA
+* SQL
  
