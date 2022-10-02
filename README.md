@@ -23,6 +23,7 @@
 * [Часть 1. EDA, Статистические тесты, Машинное обучения](https://github.com/aafominov96/analytical_projects/blob/main/statistical_analysis.ipynb) 
 * [Часть 2. Машинное обучение](https://github.com/aafominov96/analytical_projects/blob/main/neural_networks_in_data_analysis.ipynb)
 
+### Мои профиль [Tableau Public](https://public.tableau.com/app/profile/artyom.fominov)
 ## Мои проекты
  
 ## [Музыка больших городов](https://github.com/aafominov96/analytical_projects/blob/main/music_of_big_cities.ipynb)
